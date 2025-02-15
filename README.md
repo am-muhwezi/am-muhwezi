@@ -15,15 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [github.com/am-muhwezi](github.com/am-muhwezi)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/muhanguzi-muhwezi-924748204/](https://www.linkedin.com/in/muhanguzi-muhwezi-924748204/)
+- 📝 I regularly write articles on [linkedin/](https://www.linkedin.com/in/muhanguzi-muhwezi-924748204/)
 
-- 💬 Ask me about **Flask, REST-API**
+- 💬 Ask me about **Flask, REST-API Authentication Using JWT, Pointers, Memory leaks and Allocations**
 
 - 📫 How to reach me **intricatesyllable@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uz6EDBYZazUykvVFetaHlnqM8fyMBQpy3A92QTdPf5A/edit?usp=sharing](https://docs.google.com/document/d/1uz6EDBYZazUykvVFetaHlnqM8fyMBQpy3A92QTdPf5A/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1uz6EDBYZazUykvVFetaHlnqM8fyMBQpy3A92QTdPf5A/edit?usp=sharing)
 
-- ⚡ Fun fact **I am very cunningly Curious**
+- ⚡ Fun fact **I am very cunningly Curious && I watch BattleRap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
