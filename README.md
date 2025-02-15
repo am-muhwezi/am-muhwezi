@@ -1,6 +1,6 @@
-## Hi there 👋
+##### Yahweh's Delight
 
-<h1 align="center">Hi 👋, I'm uhwezi</h1>
+<h1 align="center">Hi 👋, I'M uhwezi</h1>
 <h3 align="center">A Disciplined Backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-muhwezi&label=Profile%20views&color=0e75b6&style=flat" alt="am-muhwezi" /> </p>
@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=am-muhwezi" alt="am-muhwezi" /></a> </p>
 
 - 🔭 I’m currently working on [SharpaKnife](https://sharpaknife.me/)
-
-- 🌱 I’m currently learning **Flask, Django, C, MySQL, Pstgres**
 
 - 👯 I’m looking to collaborate on [Bakers Hub](github.com/am-muhwezi/maniphest_bakers_Hub)
 
