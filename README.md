@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=am-muhwezi" alt="am-muhwezi" /></a> </p>
 
-- 🔭 I'm currently working on [TrainUrUp](https://trainrup.com/) and [ApoBasi](https://apobasi.com/)
+- 🔭 I'm currently working on [TrainrUp](https://trainrup.fit/) and [ApoBasi](https://apobasi.com/)
 
 - 👯 I’m looking to collaborate on [Bakers Hub](github.com/am-muhwezi/maniphest_bakers_Hub)
 
