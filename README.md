@@ -38,8 +38,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-muhwezi&show_icons=true&locale=en" alt="am-muhwezi" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=am-muhwezi&hide_border=true" alt="GitHub streak stats" /></p>
-
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.vercel.app/?user=am-muhwezi&hide_border=true"
+       alt="GitHub streak stats" />
+</p>
 
 
 <!--
@@ -49,7 +52,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SharpaKnife and Bakers Hub
 - 🌱 I’m currently learning C and Python with flask
-- 👯 I’m looking to collaborate on C projects, Python writing Unittests and escalate sitautions on making green
+- 👯 I’m looking to collaborate on C projects, Python writing Unittests and escalate situtations on making green
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Pointers, C-Data structures, Memory allocation, finding memory leaks among other things
 - 📫 How to reach me: intricatesyllable@gmail.com
