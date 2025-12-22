@@ -39,10 +39,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-muhwezi&show_icons=true&locale=en" alt="am-muhwezi" /></p>
 
-<p>
-  <img align="center"
-  src="https://github-readme-streak-stats.vercel.app/?user=am-muhwezi&theme=github-dark-blue&hide_border=true"
-       alt="GitHub streak stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=am-muhwezi&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 
