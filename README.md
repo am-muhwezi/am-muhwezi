@@ -1,7 +1,7 @@
 ##### Yahweh's Delight
 
-<h1 align="center">Hi 👋, I'M uhwezi</h1>
-<h3 align="center">A Disciplined Backend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'Muhwezi</h1>
+<h3 align="center">A Disciplined Backend developer from Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-muhwezi&label=Profile%20views&color=0e75b6&style=flat" alt="am-muhwezi" /> </p>
 
